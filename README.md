@@ -76,6 +76,3 @@ https://user-images.githubusercontent.com/44240293/127366818-a3f6316b-e770-4a8e-
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
-
-## Contact
-Email me at: abdou19.tech@gmail.com.
